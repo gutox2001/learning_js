@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Hotel Sunshine",
+        "address": "123 Sunny Street, Sunnytown",
+        "rooms": 50
+    },
+    {
+        "name": "Mountain Retreat",
+        "address": "456 Mountain Road, Hilltop",
+        "rooms": 30
+    },
+    {
+        "name": "City Central Hotel",
+        "address": "789 Central Avenue, Metropolis",
+        "rooms": 100
+    },
+    {
+        "name": "Beachside Inn",
+        "address": "101 Ocean Drive, Seaside",
+        "rooms": 25
+    },
+    {
+        "name": "Forest Lodge",
+        "address": "202 Woodland Path, Greenfield",
+        "rooms": 40
+    }
+]

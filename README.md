@@ -1,6 +1,3 @@
-# learning_js
-Repositório com documentos e trechos de código que visam o aprendizado de Java Script
-
 # Projeto de Aprendizado de JAVA SCRIPT 🌐
 
 Repositório com documentos e trechos de código que visam o aprendizado de Java Script

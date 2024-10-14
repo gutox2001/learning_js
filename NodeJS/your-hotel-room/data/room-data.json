@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "number": 101,
+        "type": "One person",
+        "price": 100,
+        "availability": true
+    },
+    {
+        "id": 2,
+        "number": 102,
+        "type": "Couple",
+        "price": 150,
+        "availability": false
+    },
+    {
+        "id": 3,
+        "number": 103,
+        "type": "Family",
+        "price": 200,
+        "availability": true
+    }
+]
